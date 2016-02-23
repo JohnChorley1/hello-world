@@ -1,2 +1,2 @@
 # hello-world
-Tutorial
+Just going thorough the tutorial on setting up GitHub.
